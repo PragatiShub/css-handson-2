@@ -1,0 +1,42 @@
+.box{
+    border: 10px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: red;
+    background-color: black;
+    color:white;
+    font-style: italic;
+    border-radius:45 px;
+    text-align: center;
+
+}
+
+.box4{
+    border-color:gray;
+    border-width:20px;
+    border-style: solid;
+    border-radius: 250px;
+    background-color:rgb(0, 128, 117) ;
+    color:black;
+    text-decoration: underline;
+    font-style: italic;
+    
+
+}
+
+.box5{
+    border-style: dashed;
+    border-width:10px;
+    border-color:red;
+    text-align: center;
+}
+
+.BOX{
+    border-style:solid;
+    border-width:2px;
+    border-color:green;
+    border-radius:45px;
+    text-align: center;
+    color: blue;
+    background-color: rgb(0, 255, 251);
+}
